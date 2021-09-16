@@ -1,4 +1,4 @@
-source = 'https://cdn.cocoapods.org/'
+
 minimum_target = '14.5'
 
 platform :ios, minimum_target
